@@ -1,0 +1,17 @@
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\servlets\CreatePost.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\entities\Post.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\servlets\CreateComment.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\servlets\ViewPost.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\entities\Commento.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\DAO\UtenteJpaController.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\servlets\Login.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\DAO\PostJpaController.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\servlets\Logout.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\DAO\exceptions\PreexistingEntityException.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\servlets\Registration.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\DAO\exceptions\NonexistentEntityException.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\entities\Utente.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\DAO\exceptions\IllegalOrphanException.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\servlets\CheckUser.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\servlets\CheckUserComment.java
+C:\Users\Eugenia\Desktop\Microblog\src\main\java\com\mycompany\microblog\DAO\CommentoJpaController.java
