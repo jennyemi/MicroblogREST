@@ -1,10 +1,12 @@
 com\mycompany\microblog\servlets\Login.class
+com\mycompany\microblog\configure\ApplicationConfig.class
 com\mycompany\microblog\DAO\exceptions\IllegalOrphanException.class
 com\mycompany\microblog\DAO\exceptions\PreexistingEntityException.class
 com\mycompany\microblog\entities\Commento_.class
 com\mycompany\microblog\servlets\Logout.class
 com\mycompany\microblog\entities\Commento.class
 com\mycompany\microblog\DAO\UtenteJpaController.class
+com\mycompany\microblog\services\PostServices.class
 com\mycompany\microblog\DAO\exceptions\NonexistentEntityException.class
 com\mycompany\microblog\entities\Utente_.class
 com\mycompany\microblog\DAO\CommentoJpaController.class

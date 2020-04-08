@@ -1,20 +1,16 @@
-Thu Apr 02 23:11:26 CEST 2020 : Server di rete Apache Derby: 10.11.1.2 - (1629631) avviato e pronto ad accettare connessioni sulla porta 1527
+Wed Apr 08 17:57:20 CEST 2020 : Apache Derby Server di rete: 10.8.3.2 - (1557835) avviato e pronto ad accettare connessioni sulla porta 1527
 ----------------------------------------------------------------
-Thu Apr 02 23:11:26 CEST 2020:
-Avvio della versione di Derby The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): istanza a816c00e-0171-3cbb-ecf4-ffffc23a8759
-sulla directory di database C:\Users\edoal\Desktop\Progetto Amore\Microblog\Database\Microblog con caricatore classi jdk.internal.loader.ClassLoaders$AppClassLoader@6e5e91e4 
-Caricato da file:/C:/Program%20Files/Java/jdk1.8.0_152/db/lib/derby.jar
+Wed Apr 08 17:57:21 CEST 2020:
+Avvio della versione di Derby The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835): istanza a816c00e-0171-5a82-981a-ffffd044d76c
+su directory database C:\Users\Eugenia\Desktop\Microblog REST\Database\Microblog  con caricatore classi jdk.internal.loader.ClassLoaders$AppClassLoader@2cdf8d8a 
+
 java.vendor=Oracle Corporation
-java.runtime.version=11.0.1+13-LTS
-user.dir=C:\Program Files\Java\jdk1.8.0_152\db
+java.runtime.version=11.0.6+8-LTS
+user.dir=C:\Program Files\Java\jdk1.7.0_80\db
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
-derby.system.home=C:\Users\edoal\Desktop\Progetto Amore\Microblog\Database
+derby.system.home=C:\Users\Eugenia\Desktop\Microblog REST\Database
 Programma di caricamento classe database avviato - derby.database.classpath=''
 ----------------------------------------------------------------
-Thu Apr 02 23:18:03 CEST 2020: arresto in corso del motore di Derby
-----------------------------------------------------------------
-Thu Apr 02 23:18:03 CEST 2020:
-Arresto dell'istanza a816c00e-0171-3cbb-ecf4-ffffc23a8759 nella directory del database C:\Users\edoal\Desktop\Progetto Amore\Microblog\Database\Microblog con il caricatore di classi jdk.internal.loader.ClassLoaders$AppClassLoader@6e5e91e4 
-----------------------------------------------------------------
+Wed Apr 08 19:31:35 CEST 2020: arresto in corso del motore di Derby
