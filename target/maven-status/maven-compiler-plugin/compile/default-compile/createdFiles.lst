@@ -3,6 +3,7 @@ com\mycompany\microblog\configure\ApplicationConfig.class
 com\mycompany\microblog\DAO\exceptions\IllegalOrphanException.class
 com\mycompany\microblog\DAO\exceptions\PreexistingEntityException.class
 com\mycompany\microblog\entities\Commento_.class
+com\mycompany\microblog\configure\CorsFilter.class
 com\mycompany\microblog\servlets\Logout.class
 com\mycompany\microblog\entities\Commento.class
 com\mycompany\microblog\DAO\UtenteJpaController.class

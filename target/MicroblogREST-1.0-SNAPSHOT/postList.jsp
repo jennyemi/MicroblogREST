@@ -38,7 +38,7 @@
         <% for (int i = 0; i<listaPost.size(); i++) {%>
         <% Post post = listaPost.get(i); %>
         
-        <div class="login-form text-center">
+        <div class="login-form text-center row-cols-3">
             <h1 class="mb-5 font-weight-light text-uppercase"><% out.print(post.getTitolo()); %></h1>
             <p class="mt-3 font-weight-normal"><% out.print(post.getUtente().getUsername()); %></p>
             <p class="mt-3 font-weight-normal"><% out.print(post.getDataOra().toString()); %></p>
