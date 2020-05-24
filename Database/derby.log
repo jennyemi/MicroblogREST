@@ -1,7 +1,7 @@
-Tue May 12 19:59:05 CEST 2020 : Apache Derby Server di rete: 10.8.3.2 - (1557835) avviato e pronto ad accettare connessioni sulla porta 1527
+Sat May 23 15:50:28 CEST 2020 : Apache Derby Server di rete: 10.8.3.2 - (1557835) avviato e pronto ad accettare connessioni sulla porta 1527
 ----------------------------------------------------------------
-Tue May 12 19:59:06 CEST 2020:
-Avvio della versione di Derby The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835): istanza a816c00e-0172-0a0a-486d-ffffd044d76c
+Sat May 23 15:50:29 CEST 2020:
+Avvio della versione di Derby The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835): istanza a816c00e-0172-41cc-9af4-ffffd044d76c
 su directory database C:\Users\Eugenia\Desktop\Microblog REST\Database\Microblog  con caricatore classi jdk.internal.loader.ClassLoaders$AppClassLoader@2cdf8d8a 
 
 java.vendor=Oracle Corporation

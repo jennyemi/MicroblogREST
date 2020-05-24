@@ -7,6 +7,7 @@ package com.mycompany.microblog.services;
 
 import com.mycompany.microblog.DAO.PostJpaController;
 import com.mycompany.microblog.entities.Post;
+import java.util.Date;
 import java.util.List;
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
@@ -15,6 +16,8 @@ import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response;
+import javax.ws.rs.core.UriBuilder;
 
 /**
  *
@@ -40,9 +43,16 @@ public class PostServices {
     }
     
     @POST
-    @Produces({MediaType.TEXT_HTML})
     @Consumes({MediaType.APPLICATION_JSON})
-    public void createPost(Post p){
+    public Response createPost(Post p){
+        p.setDataOra(new Date());
         PostJpaController.create(p);
+        long id = p.getId();
+        
+        String locationString = "Microblog/rest/posts/" + id;
+        
+        UriBuilder location = UriBuilder.fromPath(locationString);
+        
+        return Response.created(location.build()).build();
     }
 }
